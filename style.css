@@ -67,7 +67,7 @@ nav img {
     border-radius: 3px;
     border: 2px solid #258AFF;
     padding: 12px 25px;
-    margin-left: 400px;
+    margin-left: 550px;
     margin-right: 0;
     color: #258AFF;
     text-align: center;
@@ -112,6 +112,7 @@ nav img {
     font-weight: 700;
     line-height: 70px;
     letter-spacing: -4px;
+    margin-top: 27px;
 }
 
 .text-box p {
@@ -123,13 +124,14 @@ nav img {
     font-weight: 400;
     line-height: 36px;
     letter-spacing: -0.4px;
+    margin-top: 19px;
 }
 
 .dummy {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 2%;
+    margin-top: 31px;
     margin-bottom: 2%;
 }
 
@@ -171,14 +173,15 @@ h5 {
     font-weight: 400;
     line-height: normal;
     letter-spacing: -0.324px;
+    margin-top: 24px;
 }
 
 .row {
     display: flex;
-    width: 70em;
     align-items: center;
     justify-content: space-between;
-    padding-top: 7em;
+    margin-top: 157px;
+    margin-left: 70px;
 }
 
 .course-col .fa {
@@ -205,6 +208,6 @@ h5 {
     font-family: Karla;
     font-style: normal;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 28px;  
     margin-left: 40px;
 }
